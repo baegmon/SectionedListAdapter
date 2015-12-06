@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\baegm\AndroidStudioProjects\SectionedListAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\baegm\AndroidStudioProjects\SectionedListAdapter\app\build\intermediates\pre-dexed\debug\classes-a665dfb6a8f17c03c336793a6ca27f3a759c74a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\baegm\AndroidStudioProjects\SectionedListAdapter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\baegm\AndroidStudioProjects\SectionedListAdapter\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-933ee106077cb8561f3124c5afd8f81b3cee076b.jar" />
+    </item>
+    <item
+        jar="C:\Users\baegm\AndroidStudioProjects\SectionedListAdapter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\baegm\AndroidStudioProjects\SectionedListAdapter\app\build\intermediates\pre-dexed\debug\classes-e3c424ffeff323edfb814a28d48e346308b4044c.jar" />
+    </item>
+    <item
+        jar="C:\Users\baegm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\baegm\AndroidStudioProjects\SectionedListAdapter\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-4befc205973a5b41af2c2df13ecea3e39615eb60.jar" />
+    </item>
+
+</items>

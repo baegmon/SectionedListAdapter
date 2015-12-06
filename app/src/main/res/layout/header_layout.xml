@@ -1,0 +1,9 @@
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/TextView_header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textStyle="bold"
+    android:text="Header"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:background="#ddded0"/>
